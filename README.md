@@ -19,7 +19,7 @@ Welcome to the list of beginner Python projects designed to help you practice an
 14.Temperature Converter
 15.Currency Converter<br><br>
 
-**Project Descriptions**
+**Project Descriptions**<br>
 **Mad Libs Game**<br>
 Create a simple Mad Libs game where the program asks the user for different types of words (e.g., noun, verb, adjective) and then inserts those words into a pre-defined story template.<br>
 
