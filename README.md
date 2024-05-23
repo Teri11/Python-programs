@@ -1,6 +1,6 @@
 **BEGINNER PYTHON PROJECTS USING input()**<br>
 
-Welcome to the list of beginner Python projects designed to help you practice and understand basic input handling, string manipulation, and control flow using the input() function. Each project is simple yet effective in building your programming skills. Happy coding!<br>
+Welcome to the list of beginner Python projects designed to help you practice and understand basic input handling, string manipulation, and control flow using the input() function.<br> Each project is simple yet effective in building your programming skills. Happy coding!<br>
 
 **Table of Contents**
 1.Mad Libs Game
@@ -27,45 +27,45 @@ Create a simple Mad Libs game where the program asks the user for different type
 Build a basic calculator that takes user input for two numbers and an operation (addition, subtraction, multiplication, division) and then displays the result.<br>
 
 **Tip Calculator**
-Write a program that asks the user for the total bill amount and the percentage tip they would like to give, then calculates and displays the tip amount and total bill including the tip.
+Write a program that asks the user for the total bill amount and the percentage tip they would like to give, then calculates and displays the tip amount and total bill including the tip.<br>
 
-Unit Converter
-Develop a unit converter that converts units such as kilometers to miles, pounds to kilograms, Celsius to Fahrenheit, etc., based on user input.
+**Unit Converter**<br>
+Develop a unit converter that converts units such as kilometers to miles, pounds to kilograms, Celsius to Fahrenheit, etc., based on user input.<br>
 
-Guess the Number
-Create a number guessing game where the program randomly selects a number within a certain range and the user tries to guess it. The program provides feedback on whether the guess is too high, too low, or correct.
+**Guess the Number**<br>
+Create a number guessing game where the program randomly selects a number within a certain range and the user tries to guess it. The program provides feedback on whether the guess is too high, too low, or correct.<br>
 
-Password Validator
-Make a program that asks the user for a password and then checks if the password meets certain criteria (e.g., length, contains uppercase and lowercase letters, includes numbers and special characters).
+**Password Validator**<br>
+Make a program that asks the user for a password and then checks if the password meets certain criteria (e.g., length, contains uppercase and lowercase letters, includes numbers and special characters).<br>
 
-Basic Quiz
-Design a simple quiz program that asks the user a series of questions and gives feedback based on their answers. At the end, it can provide a score.
+**Basic Quiz**<br>
+Design a simple quiz program that asks the user a series of questions and gives feedback based on their answers. At the end, it can provide a score.<br>
 
-Palindrome Checker
-Write a program that checks if a given word or phrase (ignoring spaces, punctuation, and case) is a palindrome.
+**Palindrome Checker**<br>
+Write a program that checks if a given word or phrase (ignoring spaces, punctuation, and case) is a palindrome.<br>
 
-Rock, Paper, Scissors Game
-Implement the classic Rock, Paper, Scissors game where the user plays against the computer. The computer's choice can be randomized.
+**Rock, Paper, Scissors Game**<br>
+Implement the classic Rock, Paper, Scissors game where the user plays against the computer. The computer's choice can be randomized.<br>
 
-BMI Calculator
-Create a Body Mass Index (BMI) calculator that takes the user's weight and height and calculates their BMI, then categorizes it (underweight, normal weight, overweight, obese).
+**BMI Calculator**<br>
+Create a Body Mass Index (BMI) calculator that takes the user's weight and height and calculates their BMI, then categorizes it (underweight, normal weight, overweight, obese).<br>
 
-Age Calculator
-Develop a program that asks the user for their birth year and calculates their age.
+**Age Calculator**<br>
+Develop a program that asks the user for their birth year and calculates their age.<br>
 
-Simple Text-Based Adventure Game
-Write a text-based adventure game where the user makes choices to navigate through different scenarios and outcomes.
+**Simple Text-Based Adventure Game**<br>
+Write a text-based adventure game where the user makes choices to navigate through different scenarios and outcomes.<br>
 
-Shopping List
-Create a program that allows the user to input items they need to buy and stores them in a list. The user can view, add, and remove items from the list.
+**Shopping List**<br>
+Create a program that allows the user to input items they need to buy and stores them in a list. The user can view, add, and remove items from the list.<br>
 
-Temperature Converter
-Build a program that converts temperatures between Celsius, Fahrenheit, and Kelvin based on user input.
+**Temperature Converter**<br>
+Build a program that converts temperatures between Celsius, Fahrenheit, and Kelvin based on user input.<br>
 
-Currency Converter
-Write a currency converter that takes an amount in one currency and converts it to another based on a given exchange rate.
+**Currency Converter**<br>
+Write a currency converter that takes an amount in one currency and converts it to another based on a given exchange rate.<br>
 
-Getting Started
+**Getting Started**<br>
 Clone the Repository: Clone this repository to your local machine using git clone <repository-url>.
 Navigate to the Project Directory: `cd beginner-python-projects
 
