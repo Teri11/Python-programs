@@ -1,0 +1,6 @@
+#Age calculator
+user_name = input("Enter your name:")
+birth_year = int(input("Year of birth:")) 
+current_year = 2024
+results = current_year - birth_year
+print("Hello ", user_name, "you are ",str(results), "years of age")
