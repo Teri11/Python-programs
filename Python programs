@@ -4,3 +4,9 @@ birth_year = int(input("Year of birth:"))
 current_year = 2024
 results = current_year - birth_year
 print("Hello ", user_name, "you are ",str(results), "years of age.")
+
+#BMI Calculator
+user_weight = float(input("Enter your weight in Kilograms:"))
+user_height =float(input("Enter your height in meters:"))
+calculate_bmi = float((user_weight /user_height **2))
+print("Your BMI is", calculate_bmi)
