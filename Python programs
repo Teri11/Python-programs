@@ -6,7 +6,8 @@ results = current_year - birth_year
 print("Hello ", user_name, "you are ",str(results), "years of age.")
 
 #BMI Calculator
+user_name =str(input("Enter your name:"))
 user_weight = float(input("Enter your weight in Kilograms:"))
 user_height =float(input("Enter your height in meters:"))
 calculate_bmi = float((user_weight /user_height **2))
-print("Your BMI is", calculate_bmi)
+print("Hi",user_name,"Your BMI is", calculate_bmi)
