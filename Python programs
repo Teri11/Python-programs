@@ -55,6 +55,24 @@ else:
 another_order =input("Would you like to make another order?(yes/no):")
 if another_order.lower() == "yes":
       print("Sure! Let's start over.")
+
+
+
+# Grading system for class
+grade =54
+
+if grade >= 90:
+    print("A")
+elif grade >= 80:
+    print("B")
+elif grade >= 75:
+    print("B")
+elif grade >= 70:
+    print("D")
+elif grade >= 55:
+    print("FAIL!")
+else:
+    print("Enroll for supplimentary")
       
 # Taking the order
 order = input("Please enter the number of your choice: ")
