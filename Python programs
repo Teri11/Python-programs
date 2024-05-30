@@ -11,3 +11,50 @@ user_weight = float(input("Enter your weight in Kilograms:"))
 user_height =float(input("Enter your height in meters:"))
 calculate_bmi = float((user_weight /user_height **2))
 print("Hi",user_name,"Your BMI is", calculate_bmi)
+
+
+# Coffee shop AI
+welcoming_message = "Welcome to The Coffee Cove shop"
+print(welcoming_message)
+ 
+# ask customer their name
+customer_name = input("What is your name? ")
+print(f"Hello {customer_name}, welcome to The Coffee Cove Shop")
+ 
+# List of menu
+menu_instruction =" Our menu for today includes:"
+print(menu_instruction)
+ 
+# Displaying a simple menu
+print("1.Expresso")
+print("2.Latte")
+print("3.Cappuccino")
+print("4.Americano")
+ 
+# Taking the order
+order = input("Please enter the number of your choice: ")
+ 
+# Using if-elif-else statements to respond to the order
+ 
+if order == "1":
+    print("You have ordered Expresso.That will be $3.50.")
+    
+elif order == "2":
+    print("You have ordered Latte. That will be $4.00")
+ 
+elif order == "3":
+    print("You have ordered Cappuccino. That will be $4.50")
+ 
+elif order == "4":
+    print("You have ordered Americano. That will be $5.00")
+ 
+else:
+    print("Sorry, we do not have that on our menu.")
+    
+# another order
+another_order =input("Would you like to make another order?(yes/no):")
+if another_order.lower() == "yes":
+      print("Sure! Let's start over.")
+      
+# Taking the order
+order = input("Please enter the number of your choice: ")
