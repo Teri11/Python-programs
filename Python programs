@@ -74,5 +74,4 @@ elif grade >= 55:
 else:
     print("Enroll for supplimentary")
       
-# Taking the order
-order = input("Please enter the number of your choice: ")
+
