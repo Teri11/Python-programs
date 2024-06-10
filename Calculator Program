@@ -33,8 +33,53 @@ def divide(x, y):
 
 # Main function to run the calculator
 def calculator():
-    print("Simple calculator program")
+    print("Calculator program")
     
 # Get user input for numbers
 num1 =float(input("Enter the first Number:"))
 num2 =float(input("Enter the second Number:"))
+
+# Get user input for operation
+operation = input("Choose operation(+.-,*,/):")
+
+# Perform the selected operation
+if operation == "+":
+    results =add(num1,num2)
+    
+elif operation == "-":
+    results =subtract(num1,num2)
+    
+elif operation == "*":
+    results =multiply(num1,num2)
+    
+elif operation == "/":
+    results =divide(num1,num2)
+    
+else:
+    results = "Invalid Operation"
+
+    
+# Display the result
+print(f"Your answer = {results}")
+# Run the calculator
+calculator()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
