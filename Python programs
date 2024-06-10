@@ -73,5 +73,17 @@ elif grade >= 55:
     print("FAIL!")
 else:
     print("Enroll for supplimentary")
+
+
+
+#User authentication with conditional statements
+username = input("Enter your username:")
+email = input("Enter your Email:")
+password = input("Enter your password:")
+
+if "@" in email and  username == "admin" and password == "1234":
+    print("Login Successfull")
+else:
+    print("Invalid credentials. Please try again.")
       
 
