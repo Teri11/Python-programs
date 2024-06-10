@@ -1,0 +1,40 @@
+1. Understanding the Problem
+Before we start coding, let's define the problem. Our goal is to create a
+calculator that can perform basic arithmetic operations based on user input.
+The program should be able to handle addition, subtraction, multiplication,
+and division.
+
+2. Building the Foundation
+Let's start by setting up the basic structure of our program. We'll use
+variables to store user input and results, and we'll incorporate input
+functions to gather user choices.
+
+python code
+# Simple Calculator Program
+
+# Function to perform addition
+def add(x, y):
+    return x + y
+  
+# Function to perform subtraction
+def subtract(x, y):
+    return x - y
+  
+# Function to perform multiplication
+def multiply(x, y):
+    return x * y
+  
+# Function to perform division
+def divide(x, y):
+    if y != 0:
+        return x / y
+    else:
+        return "Cannot divide by zero"
+
+# Main function to run the calculator
+def calculator():
+    print("Simple calculator program")
+    
+# Get user input for numbers
+num1 =float(input("Enter the first Number:"))
+num2 =float(input("Enter the second Number:"))
