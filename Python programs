@@ -59,16 +59,16 @@ if another_order.lower() == "yes":
 
 
 # Grading system for class
-grade =54
+grade =79
 
 if grade >= 90:
-    print("A")
+    print("Grade A")
 elif grade >= 80:
-    print("B")
+    print("Grade B")
 elif grade >= 75:
-    print("B")
+    print("Grade B( Minus)")
 elif grade >= 70:
-    print("D")
+    print("Grade D")
 elif grade >= 55:
     print("FAIL!")
 else:
